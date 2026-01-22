@@ -1,0 +1,74 @@
+🟢 Problem 1 – Basic Program Flow & Conditions
+Problem Statement
+Create a Java program that:
+Accepts a number from the user
+Checks whether the number is:
+Positive, Negative, or Zero
+Even or Odd
+Prints the result
+Must Use
+✔ Variables
+✔ Data types
+✔ Operators
+✔ if-else
+✔ Input/Output
+🟢 Problem 2 – Loops & Logic Building
+Problem Statement
+Write a Java program to:
+Print numbers from 1 to N
+Print all even numbers between 1 and N
+Calculate the sum of numbers from 1 to N
+Must Use
+✔ for loop
+✔ while loop
+✔ Variables
+✔ Operators
+🟢 Problem 3 – Methods & Reusability
+Problem Statement
+Create a Java program that has the following methods:
+add(int a, int b) → returns sum
+isEven(int number) → returns true/false
+findFactorial(int number) → returns factorial
+Call these methods from main() and print results.
+Must Use
+✔ Methods
+✔ Return types
+✔ Parameters
+✔ Method calls
+🟢 Problem 4 – OOP: Class, Object & Encapsulation
+Problem Statement
+Create a class Student with:
+Private fields:
+id
+name
+marks
+Constructor to initialize values
+Getters and setters
+Method:
+isPassed() → returns true if marks ≥ 40
+Create objects of Student and display result.
+Must Use
+✔ Class & object
+✔ Constructor
+✔ this keyword
+✔ Encapsulation
+✔ Methods
+🟢 Problem 5 – Static, Multiple Objects & Mini Scenario
+Problem Statement
+Create a class Employee with:
+Fields:
+id, name, monthlySalary
+Static field:
+companyName
+Constructor
+Method:
+calculateAnnualSalary()
+Method:
+displayEmployeeDetails()
+Create at least 2 Employee objects and print their details.
+Must Use
+✔ static keyword
+✔ Constructors
+✔ Multiple objects
+✔ Methods
+✔ OOP structure
